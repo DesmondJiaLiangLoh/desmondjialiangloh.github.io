@@ -1,0 +1,11 @@
+{
+  "mode": "synthetic replay",
+  "project": "demo",
+  "dataset": "analytics",
+  "source_status": {
+    "bigquery": "DEMO",
+    "dataform": "NOT_CONFIGURED",
+    "scheduled": "NOT_CONFIGURED"
+  },
+  "lineage_confidence": "CANDIDATE"
+}
